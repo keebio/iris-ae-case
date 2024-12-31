@@ -11,7 +11,7 @@ The Iris AE case consists these pieces:
 - Switch plate - 1.5mm thick
 - Top Piece
 - Bottom Piece
-- Tray Inserts - Made out of silicone
+- [Silicone Tray Inserts](https://keeb.io/products/iris-aluminum-case-silicone-tray-insert)
 
 Additional parts used:
 
