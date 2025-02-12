@@ -1,5 +1,7 @@
 # Iris AE Aluminum Keyboard Case
 
+![Green Iris AE Case](images/iris-ae-green.jpg)
+
 With the discontinuation of the Iris AE Aluminum Case, the case files are being released for people to have their own case made.
 
 These files are being provided as-is, and no additional support will be provided for use of them.
@@ -33,7 +35,7 @@ The top and bottom piece STEP files for the aluminum case can be submitted to va
 - Select `Yes` for Threads and upload the corresponding PDF drawing for that piece
 
 
-![JLCCNC Ordering Page](jlccnc-order.png)
+![JLCCNC Ordering Page](images/jlccnc-order.png)
 
 ## License
 
