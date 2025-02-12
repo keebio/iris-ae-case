@@ -2,7 +2,7 @@
 
 ![Green Iris AE Case](images/iris-ae-green.jpg)
 
-With the discontinuation of the Iris AE Aluminum Case, the case files are being released for people to have their own case made.
+With the discontinuation of the [Iris AE Aluminum Case](https://keeb.io/products/iris-ae-aluminum-case), the case files are being released for people to have their own case made.
 
 These files are being provided as-is, and no additional support will be provided for use of them.
 
