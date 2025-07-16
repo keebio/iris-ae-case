@@ -20,7 +20,8 @@ Additional parts used:
 - 8x [6mm M2 screws](https://s.click.aliexpress.com/e/_opXvJPD)
 - 16x [12mm M3 screws](https://s.click.aliexpress.com/e/_opXvJPD)
 - 16x O-rings - 4mm OD (Outer Diameter), 2mm ID (Inner Diameter), 1mm CS (Cross Section)
-  - [AliExpress Listing for O-rings](https://s.click.aliexpress.com/e/_op6d4Cr) (Select `OD4-ID2`)
+    - [AliExpress Listing for O-rings](https://s.click.aliexpress.com/e/_oEDcQlM) (Select `OD4-CS1`)
+    - [AliExpress Listing for O-rings](https://s.click.aliexpress.com/e/_okIWTFc) (Select `OD 4mm ID 2mm`)
 - [SKUF Feet](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
 
 ## Fabrication
